@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\Domain.csproj": {}
+    "c:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\Domain.csproj": {
+    "c:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\BlueF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BlueF\\AppData\\Roaming\\NuGet\\NuGet.Config",
