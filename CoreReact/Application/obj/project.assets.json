@@ -1480,11 +1480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\BlueF\\Desktop\\CoreReact\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\BlueF\\Desktop\\CoreReact\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\Users\\BlueF\\Desktop\\CoreReact\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\BlueF\\Desktop\\CoreReact\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\BlueF\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\BlueF\\Desktop\\CoreReact\\Application\\obj\\",
+      "outputPath": "C:\\Users\\BlueF\\Desktop\\CoreReact\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BlueF\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1500,11 +1500,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "c:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\Domain.csproj"
+            "C:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\BlueF\\Desktop\\CoreReact\\Domain\\Domain.csproj"
             },
-            "c:\\Users\\BlueF\\Desktop\\CoreReact\\Persistence\\Persistence.csproj": {
-              "projectPath": "c:\\Users\\BlueF\\Desktop\\CoreReact\\Persistence\\Persistence.csproj"
+            "C:\\Users\\BlueF\\Desktop\\CoreReact\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\BlueF\\Desktop\\CoreReact\\Persistence\\Persistence.csproj"
             }
           }
         }

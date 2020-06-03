@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R5ht+19F08o2hryWqWnIS1LtVHeImBAFdJkOiMohUu+eOUevqervoiTAtZYX2x89I1RtQu+0e/IM6DE4EpM+cw==",
+  "dgSpecHash": "Q8+aT9DBH2/mJGQIqy/DouWzydJJ5CalIBLDostjgl8HwcFI1TMumbJYtQFb+tnHpFeD49a8k3eYukBKVRTqQQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\BlueF\\Desktop\\CoreReact\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\BlueF\\Desktop\\CoreReact\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BlueF\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\BlueF\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
