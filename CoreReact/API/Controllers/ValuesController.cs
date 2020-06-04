@@ -13,18 +13,22 @@ namespace DatingApp.API.Controllers
     {
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public ActionResult<string> Get()
         {
             string[] names = new string[] { "value1", "value3" };
-            var json = JsonConvert.SerializeObject(names);
-            return names;
+            var obj = new
+            {
+                name = "Charlie",
+            };
+            var json = JsonConvert.SerializeObject(obj);
+            return json;
         }
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
+        public ActionResult<int> Get(int id)
         {
-            return "value";
+            return id;
         }
 
         // POST api/values
