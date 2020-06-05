@@ -63,3 +63,4 @@ C:\Users\BlueF\Desktop\CoreReact\API\obj\Debug\netcoreapp3.1\API.dll
 C:\Users\BlueF\Desktop\CoreReact\API\obj\Debug\netcoreapp3.1\API.pdb
 C:\Users\BlueF\Desktop\CoreReact\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
 C:\Users\BlueF\Desktop\CoreReact\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\BlueF\Desktop\CoreReact\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
